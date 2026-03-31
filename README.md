@@ -1,164 +1,162 @@
-# Nguyen Van Minh
-**Senior Unity Developer**
+# Nguyễn Văn Thịnh
+**Senior Unity Developer — Mobile Game (iOS/Android)**
 
-📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 📧 vanminh.dev@gmail.com &nbsp;|&nbsp; 📱 +84 912 345 678
-🔗 [linkedin.com/in/vanminh-unity](https://linkedin.com) &nbsp;|&nbsp; 🐙 [github.com/vanminh-unity](https://github.com) &nbsp;|&nbsp; 🌐 [vanminh.dev](https://vanminh.dev)
-
----
-
-## 🧑‍💼 Professional Summary
-
-Senior Unity Developer with **7+ years of experience** building high-performance games and interactive applications across Mobile, PC, and AR/VR platforms. Proven track record delivering titles with **10M+ downloads** on iOS/Android. Deep expertise in gameplay systems, performance optimization, shader programming, and multiplayer architecture. Passionate about clean code, scalable architecture, and mentoring junior developers.
+📍 Hà Nội, Việt Nam &nbsp;|&nbsp; 📧 vanminh.dev@gmail.com &nbsp;|&nbsp; 📱 0912 345 678
+🔗 [linkedin.com/in/vanminh-unity](https://linkedin.com) &nbsp;|&nbsp; 🐙 [github.com/vanminh-unity](https://github.com)
 
 ---
 
-## 🛠️ Technical Skills
+## 👤 Giới Thiệu Bản Thân
 
-### Core
-| Category | Skills |
+Senior Unity Developer với **7+ năm kinh nghiệm** phát triển game mobile (iOS & Android), từ giai đoạn prototype đến khi phát hành và vận hành live-ops. Đã tham gia các tựa game đạt **10M+ lượt tải** trên App Store và Google Play. Thành thạo tối ưu hiệu năng trên thiết bị tầm trung/thấp, xây dựng hệ thống kiến trúc sạch và có khả năng mở rộng, đồng thời có kinh nghiệm dẫn dắt nhóm kỹ thuật.
+
+---
+
+## 🛠️ Kỹ Năng Kỹ Thuật
+
+### Engine & Ngôn Ngữ
+| Hạng mục | Chi tiết |
 |---|---|
-| **Engine** | Unity 2020–2023 LTS, Unity DOTS/ECS, Unity HDRP/URP |
-| **Languages** | C#, HLSL/GLSL (Shader), Python (tooling) |
-| **Architecture** | MVC, MVP, MVVM, ECS, ScriptableObject-driven design |
-| **Patterns** | Object Pooling, State Machine, Observer, Command, Factory |
+| **Unity** | Unity 2020–2023 LTS, URP, Unity DOTS/ECS cơ bản |
+| **Ngôn ngữ** | C# (thành thạo), HLSL/Shader Graph, Python (tooling) |
+| **Kiến trúc** | MVC, MVP, MVVM, ScriptableObject-driven Design |
+| **Design Pattern** | Object Pooling, State Machine, Observer, Command, Factory |
 
-### Rendering & Graphics
-- Custom Shader Graph & hand-written HLSL shaders
-- Post-processing (Bloom, DoF, Motion Blur, Custom Effects)
-- GPU Instancing, LOD systems, Occlusion Culling
-- VFX Graph, Particle Systems, Spine 2D animation integration
+### Mobile Game — Chuyên Sâu
+- **iOS & Android Build Pipeline:** IL2CPP, Xcode, Gradle, signing automation
+- **Tối ưu hiệu năng:** Giảm draw calls, GPU Instancing, LOD, Occlusion Culling
+- **Bộ nhớ & GC:** Memory profiling, texture compression (ASTC/ETC2), GC alloc tuning
+- **Asset Pipeline:** Unity Addressables, Asset Bundle, remote content delivery
+- **UI/UX Mobile:** Unity UI Toolkit, TextMeshPro, Safe Area, đa tỉ lệ màn hình
+- **Tích hợp SDK:** AdMob, IronSource, MAX Mediation, Appsflyer, Adjust
+- **IAP & Monetization:** Unity IAP, Google Billing API, StoreKit (iOS), server-side receipt validation
+- **Thông báo & Engagement:** Firebase Cloud Messaging, local notifications
+- **CI/CD Mobile:** GitHub Actions, Fastlane, Unity Cloud Build, TestFlight, Firebase App Distribution
 
-### Multiplayer & Backend
-- **Netcode for GameObjects**, Mirror, Photon Fusion / PUN2
-- Game server architecture (Dedicated Server, Relay)
-- Firebase (Auth, Realtime DB, Remote Config, Analytics)
-- PlayFab, GameSparks, REST API integration
+### Backend & Dịch Vụ Đám Mây
+- Firebase (Auth, Realtime Database, Firestore, Remote Config, Analytics, Crashlytics)
+- PlayFab — player data, leaderboard, live-ops
+- REST API, JSON, tích hợp backend tùy chỉnh
 
-### Mobile & Optimization
-- iOS / Android profiling (Xcode Instruments, Android Profiler)
-- Memory management, GC optimization, draw call batching
-- Addressables & Asset Bundle pipeline
-- IL2CPP build pipeline, CI/CD (GitHub Actions, Fastlane)
-
-### AR / VR
-- AR Foundation (ARCore / ARKit), Vuforia
-- Meta Quest / Oculus SDK, SteamVR / OpenXR
-- Hand tracking, spatial anchors, passthrough rendering
-
-### Tools & Workflow
-- Git, Git LFS, Perforce
+### Công Cụ & Quy Trình
+- Git, Git LFS, Gitflow
 - JIRA, Confluence, Notion
-- Unity Cloud Build, TestFlight, Google Play Console
-- Unity Test Framework (Unit & Integration testing)
+- Unity Test Framework (Unit Test & Integration Test)
+- Google Play Console, App Store Connect
 
 ---
 
-## 💼 Work Experience
+## 💼 Kinh Nghiệm Làm Việc
 
 ### Senior Unity Developer
-**Amanotes** — Ho Chi Minh City &nbsp;|&nbsp; *Jan 2021 – Present*
+**Amanotes** — TP. Hồ Chí Minh &nbsp;|&nbsp; *Tháng 1/2021 – Hiện tại*
 
-> Vietnam's #1 mobile game publisher (1B+ downloads globally)
+> Nhà phát hành game mobile hàng đầu Việt Nam (1 tỷ+ lượt tải toàn cầu)
 
-- Led development of **Magic Tiles 3** new content system, reducing content deployment time by **60%** via ScriptableObject-driven pipeline.
-- Architected and implemented a **cross-platform IAP & monetization SDK** used across 12 game titles.
-- Optimized rendering pipeline on mid-range Android devices, improving FPS from 32 → **58 average** with URP custom passes and aggressive draw call batching.
-- Introduced **Unity Addressables** asset pipeline, reducing initial app download size by **35%**.
-- Mentored a team of 4 junior/mid developers through weekly code reviews and pair programming sessions.
-- Established unit test coverage from 0 → **45%** on core gameplay modules.
+- Dẫn dắt nhóm kỹ thuật 5 người phát triển tính năng mới cho **Magic Tiles 3** (50M+ MAU).
+- Thiết kế hệ thống nội dung dựa trên ScriptableObject + Addressables, giúp rút ngắn thời gian ra mắt bài hát mới từ **3 ngày → 4 giờ**.
+- Tối ưu hiệu năng cho thiết bị Android tầm trung: FPS tăng từ **32 → 58** nhờ tối ưu render pass URP và giảm draw calls.
+- Giảm dung lượng APK/IPA lần đầu tải xuống **35%** bằng cách tách asset động qua Addressables.
+- Tích hợp và duy trì hệ thống **A/B testing** với Firebase Remote Config phục vụ live-ops.
+- Xây dựng **SDK monetization nội bộ** (IAP + Ads) tái sử dụng cho 12 tựa game trong cùng studio.
+- Mentoring 4 developer junior/mid qua code review và pair programming hàng tuần.
+- Nâng độ phủ unit test từ **0% → 45%** cho các module gameplay cốt lõi.
 
-**Tech stack:** Unity 2022 LTS, URP, Addressables, Firebase, PlayFab, Photon, C#
+**Công nghệ:** Unity 2022 LTS, URP, Addressables, Firebase, PlayFab, IronSource, C#
 
 ---
 
 ### Unity Developer (Mid → Senior)
-**Gameloft Vietnam** — Ho Chi Minh City &nbsp;|&nbsp; *Mar 2018 – Dec 2020*
+**Gameloft Vietnam** — TP. Hồ Chí Minh &nbsp;|&nbsp; *Tháng 3/2018 – Tháng 12/2020*
 
-- Developed core gameplay systems for **Asphalt 9: Legends** Vietnam localization build and seasonal content updates.
-- Built a **custom Editor toolset** for level designers, reducing level production time by **40%**.
-- Implemented **Netcode multiplayer** for real-time 8-player racing with client-side prediction and lag compensation.
-- Integrated analytics pipeline (GameAnalytics + custom events) to drive live-ops decisions.
-- Worked with Art team to build a **GPU-instanced traffic system** supporting 200+ vehicles without CPU overhead.
+- Phát triển hệ thống gameplay và nội dung theo mùa cho **Asphalt 9: Legends** bản mobile.
+- Xây dựng **Editor toolset tùy chỉnh** cho Level Designer, giảm thời gian sản xuất level **40%**.
+- Tích hợp pipeline analytics (GameAnalytics + custom events) phục vụ ra quyết định live-ops.
+- Tối ưu hóa bộ nhớ và hiệu năng cho thiết bị Android low-end (RAM 2GB), giữ game ổn định không bị OOM crash.
+- Phối hợp với team Art xây dựng **hệ thống xe giao thông GPU-instanced** hỗ trợ 200+ phương tiện không gây overhead cho CPU.
 
-**Tech stack:** Unity 2019–2020, HDRP, Mirror Networking, C#, Python (tooling)
+**Công nghệ:** Unity 2019–2020, HDRP, C#, Python (tooling), GameAnalytics
 
 ---
 
 ### Junior Unity Developer
-**KMS Technology (Game Division)** — Ho Chi Minh City &nbsp;|&nbsp; *Jun 2016 – Feb 2018*
+**KMS Technology (Game Division)** — TP. Hồ Chí Minh &nbsp;|&nbsp; *Tháng 6/2016 – Tháng 2/2018*
 
-- Built 3 casual mobile games (puzzle & hyper-casual) from prototype to App Store/Play Store launch.
-- Implemented save system, localization, push notification, and ad mediation (AdMob, MoPub).
-- Delivered AR prototype for a retail client using Vuforia marker tracking.
+- Phát triển 3 game mobile (casual & hyper-casual) từ prototype đến khi phát hành trên App Store và Google Play.
+- Tích hợp hệ thống lưu game, đa ngôn ngữ, push notification và ad mediation (AdMob, MoPub).
+- Đạt **Top 10 Game Miễn Phí** tại Việt Nam với tựa game Puzzle đầu tay.
 
-**Tech stack:** Unity 5 / 2017, Vuforia, AdMob, C#
-
----
-
-## 🎮 Featured Projects
-
-### 🎵 Magic Tiles 3 — Content Automation System
-*Amanotes, 2022*
-Designed a fully data-driven song & level content pipeline using ScriptableObjects + Addressables. Enabled non-engineers to publish new songs daily without a code build. Reduced QA cycle from 3 days → 4 hours.
+**Công nghệ:** Unity 5 / 2017, AdMob, C#
 
 ---
 
-### 🏎️ Asphalt 9 — Multiplayer Racing System
-*Gameloft, 2019*
-Architected the real-time 8-player multiplayer module with client-side prediction, server reconciliation, and adaptive lag compensation. Achieved stable gameplay at up to 150ms latency.
+## 🎮 Dự Án Tiêu Biểu
+
+### 🎵 Magic Tiles 3 — Hệ Thống Nội Dung Tự Động
+*Amanotes · 2022*
+
+Thiết kế pipeline nội dung hoàn toàn dựa trên dữ liệu (ScriptableObject + Addressables), cho phép đội ngũ không-lập-trình có thể xuất bản bài hát mới hàng ngày mà không cần build lại ứng dụng. Chu kỳ QA rút ngắn từ 3 ngày xuống 4 giờ. Hỗ trợ phát hành đồng loạt trên iOS & Android.
 
 ---
 
-### 🥽 AR Furniture Viewer (Client Project)
-*KMS Technology, 2017*
-Built an AR application for a furniture retailer allowing customers to place 3D furniture models in their room using ARKit/ARCore. Integrated plane detection, occlusion, and dynamic lighting to match real-world environment.
+### 📊 SDK Monetization Nội Bộ
+*Amanotes · 2021*
+
+Xây dựng SDK tích hợp thống nhất cho IAP (Google Billing + StoreKit) và Ads (IronSource + AdMob Mediation), bao gồm server-side receipt validation, retry logic và fallback. SDK được tái sử dụng trên 12 game, tiết kiệm ước tính **120 ngày công** tích hợp lặp lại.
 
 ---
 
-## 🎓 Education
+### 🎯 Hyper-Casual Launcher Game
+*KMS Technology · 2017*
 
-**Bachelor of Computer Science**
-Ho Chi Minh City University of Technology (HCMUT) — *2012 – 2016*
-GPA: 3.6 / 4.0 &nbsp;|&nbsp; Specialization: Software Engineering
+Phát triển độc lập tựa game hyper-casual từ ý tưởng đến khi lên kệ trong **6 tuần**. Đạt 500K lượt tải trong tháng đầu tiên, lọt Top 10 Game Miễn Phí tại thị trường Việt Nam. Tích hợp đầy đủ AdMob, in-app purchase, hệ thống daily reward và push notification.
 
 ---
 
-## 📜 Certifications & Courses
+## 🎓 Học Vấn
 
-| Year | Certification |
+**Cử nhân Khoa học Máy tính**
+Trường Đại học Bách Khoa TP. HCM (HCMUT) — *2012 – 2016*
+GPA: 3.6 / 4.0 &nbsp;|&nbsp; Chuyên ngành: Kỹ thuật Phần mềm
+
+---
+
+## 📜 Chứng Chỉ
+
+| Năm | Chứng chỉ |
 |---|---|
 | 2023 | Unity Certified Expert — Gameplay Programmer |
-| 2022 | Meta Quest Developer — VR Performance Optimization |
+| 2022 | Google Play Academy — Store Listing Certificate |
 | 2021 | AWS Cloud Practitioner |
-| 2020 | Clean Code & SOLID Principles — Udemy |
+| 2020 | Firebase in a Weekend (Google Developers) |
 
 ---
 
-## 🌏 Languages
+## 🏆 Thành Tích
 
-| Language | Level |
+- 🥇 **Unity Developer of the Year** — Giải thưởng nội bộ Amanotes 2022
+- 📱 Tổng cộng **50M+ lượt tải** trên các tựa game đã phát hành
+- 📢 Diễn giả tại **Vietnam Game Developer Meetup 2021** — *"Tối ưu Unity cho thiết bị Android tầm thấp"*
+- 🤝 Đóng góp mã nguồn mở — **Unity Mobile Toolkit** (GitHub, 420+ stars)
+
+---
+
+## 🌏 Ngoại Ngữ
+
+| Ngôn ngữ | Trình độ |
 |---|---|
-| Vietnamese | Native |
-| English | Professional working proficiency (IELTS 7.0) |
+| Tiếng Việt | Bản ngữ |
+| Tiếng Anh | Giao tiếp chuyên nghiệp (IELTS 7.0) |
 
 ---
 
-## 🏆 Achievements
+## 📌 Thông Tin Thêm
 
-- 🥇 **Unity Developer of the Year** — Amanotes internal award, 2022
-- 🎯 Games shipped with combined **50M+ downloads** across iOS & Android
-- 📢 Speaker at **Vietnam Game Developer Meetup** 2021 — *"Optimizing Unity for Low-end Android Devices"*
-- 🤝 Open source contributor — **Unity Performance Toolkit** (GitHub, 420+ stars)
-
----
-
-## 📌 Additional Information
-
-- Available for: Full-time / Contract / Remote
-- Notice period: 1 month
-- Expected salary: Negotiable (competitive with market rate)
-- Open to relocation: Yes (Singapore, SEA region)
+- **Hình thức làm việc:** Toàn thời gian / Hợp đồng / Remote
+- **Thời gian thông báo:** 1 tháng
+- **Mức lương kỳ vọng:** Thỏa thuận (cạnh tranh theo thị trường)
+- **Sẵn sàng di chuyển:** Có (Singapore, khu vực Đông Nam Á)
 
 ---
 
-*Last updated: March 2026*
+*Cập nhật lần cuối: Tháng 3/2026*
