@@ -1,14 +1,13 @@
 # Nguyễn Văn Thịnh
-**Senior Unity Developer — Mobile Game (iOS/Android)**
+**Unity Developer — Mobile Game (iOS/Android)**
 
-📍 Hà Nội, Việt Nam &nbsp;|&nbsp; 📧 vanminh.dev@gmail.com &nbsp;|&nbsp; 📱 0912 345 678
-🔗 [linkedin.com/in/vanminh-unity](https://linkedin.com) &nbsp;|&nbsp; 🐙 [github.com/vanminh-unity](https://github.com)
+📍 Hà Nội, Việt Nam &nbsp;|&nbsp; 📧 thinhkm2001@gmail.com &nbsp;|&nbsp; 📱 0398801*** &nbsp;|&nbsp; 🐙 [github.com/thinhkm2001](https://github.com)
 
 ---
 
 ## 👤 Giới Thiệu Bản Thân
 
-Senior Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile (iOS & Android), từ giai đoạn prototype đến khi phát hành và vận hành live-ops. Đã tham gia các tựa game đạt **10M+ lượt tải** trên App Store và Google Play. Thành thạo tối ưu hiệu năng trên thiết bị tầm trung/thấp, xây dựng hệ thống kiến trúc sạch và có khả năng mở rộng, đồng thời có kinh nghiệm dẫn dắt nhóm kỹ thuật.
+Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile (iOS & Android), từ giai đoạn prototype đến khi phát hành và vận hành live-ops. Đã tham gia các tựa game đạt **10M+ lượt tải** trên App Store và Google Play. Thành thạo tối ưu hiệu năng trên thiết bị tầm trung/thấp, xây dựng hệ thống kiến trúc sạch và có khả năng mở rộng, đồng thời có kinh nghiệm dẫn dắt nhóm kỹ thuật.
 
 ---
 
@@ -17,7 +16,7 @@ Senior Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile
 ### Engine & Ngôn Ngữ
 | Hạng mục | Chi tiết |
 |---|---|
-| **Unity** | Unity 2020–2023 LTS, URP, Unity DOTS/ECS cơ bản |
+| **Unity** | Unity 2020–2023 / 6 LTS, URP, Unity DOTS/ECS cơ bản |
 | **Ngôn ngữ** | C# (thành thạo), HLSL/Shader Graph, Python (tooling) |
 | **Kiến trúc** | MVC, MVP, MVVM, ScriptableObject-driven Design |
 | **Design Pattern** | Object Pooling, State Machine, Observer, Command, Factory |
@@ -92,19 +91,17 @@ Senior Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile
 
 ## 🎮 Dự Án Tiêu Biểu
 
-### 🎵 Magic Tiles 3 — Hệ Thống Nội Dung Tự Động
-*Amanotes · 2022*
+### 🎵 **Sand Loop - Percas Studio**
 
 Thiết kế pipeline nội dung hoàn toàn dựa trên dữ liệu (ScriptableObject + Addressables), cho phép đội ngũ không-lập-trình có thể xuất bản bài hát mới hàng ngày mà không cần build lại ứng dụng. Chu kỳ QA rút ngắn từ 3 ngày xuống 4 giờ. Hỗ trợ phát hành đồng loạt trên iOS & Android.
 
+### **Block Color: Jam Mania**
+
+### **Tangle Frenzy**
+
+### **Paint By Words**
 ---
 
-### 📊 SDK Monetization Nội Bộ
-*Amanotes · 2021*
-
-Xây dựng SDK tích hợp thống nhất cho IAP (Google Billing + StoreKit) và Ads (IronSource + AdMob Mediation), bao gồm server-side receipt validation, retry logic và fallback. SDK được tái sử dụng trên 12 game, tiết kiệm ước tính **120 ngày công** tích hợp lặp lại.
-
----
 
 ### 🎯 Hyper-Casual Launcher Game
 *KMS Technology · 2017*
@@ -144,7 +141,7 @@ Trường Đại học Bách Khoa Hà Nội — *2019 – 2024*
 | Ngôn ngữ | Trình độ |
 |---|---|
 | Tiếng Việt | Bản ngữ |
-| Tiếng Anh | Đọc hiểu |
+| Tiếng Anh | Đọc hiểu cơ bản|
 
 ---
 
