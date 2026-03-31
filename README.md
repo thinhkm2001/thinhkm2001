@@ -8,7 +8,7 @@
 
 ## 👤 Giới Thiệu Bản Thân
 
-Senior Unity Developer với **7+ năm kinh nghiệm** phát triển game mobile (iOS & Android), từ giai đoạn prototype đến khi phát hành và vận hành live-ops. Đã tham gia các tựa game đạt **10M+ lượt tải** trên App Store và Google Play. Thành thạo tối ưu hiệu năng trên thiết bị tầm trung/thấp, xây dựng hệ thống kiến trúc sạch và có khả năng mở rộng, đồng thời có kinh nghiệm dẫn dắt nhóm kỹ thuật.
+Senior Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile (iOS & Android), từ giai đoạn prototype đến khi phát hành và vận hành live-ops. Đã tham gia các tựa game đạt **10M+ lượt tải** trên App Store và Google Play. Thành thạo tối ưu hiệu năng trên thiết bị tầm trung/thấp, xây dựng hệ thống kiến trúc sạch và có khả năng mở rộng, đồng thời có kinh nghiệm dẫn dắt nhóm kỹ thuật.
 
 ---
 
@@ -48,8 +48,8 @@ Senior Unity Developer với **7+ năm kinh nghiệm** phát triển game mobile
 
 ## 💼 Kinh Nghiệm Làm Việc
 
-### Senior Unity Developer
-**Amanotes** — TP. Hồ Chí Minh &nbsp;|&nbsp; *Tháng 1/2021 – Hiện tại*
+### Lead Unity Develop
+**Percas Studio** - Hà Nội &nbsp;|&nbsp; *Tháng 10/2025 – Hiện tại*
 
 > Nhà phát hành game mobile hàng đầu Việt Nam (1 tỷ+ lượt tải toàn cầu)
 
@@ -62,12 +62,12 @@ Senior Unity Developer với **7+ năm kinh nghiệm** phát triển game mobile
 - Mentoring 4 developer junior/mid qua code review và pair programming hàng tuần.
 - Nâng độ phủ unit test từ **0% → 45%** cho các module gameplay cốt lõi.
 
-**Công nghệ:** Unity 2022 LTS, URP, Addressables, Firebase, PlayFab, IronSource, C#
+**Công nghệ:** Unity 2022 / 6 LTS, URP, Addressables, Firebase, PlayFab, IronSource, C#
 
 ---
 
-### Unity Developer (Mid → Senior)
-**Gameloft Vietnam** — TP. Hồ Chí Minh &nbsp;|&nbsp; *Tháng 3/2018 – Tháng 12/2020*
+### Unity Developer (Junior → Mid)
+**Percas Studio** — Hà Nội &nbsp;|&nbsp; *Tháng 11/2024 – Hiện tại*
 
 - Phát triển hệ thống gameplay và nội dung theo mùa cho **Asphalt 9: Legends** bản mobile.
 - Xây dựng **Editor toolset tùy chỉnh** cho Level Designer, giảm thời gian sản xuất level **40%**.
@@ -80,13 +80,13 @@ Senior Unity Developer với **7+ năm kinh nghiệm** phát triển game mobile
 ---
 
 ### Junior Unity Developer
-**KMS Technology (Game Division)** — TP. Hồ Chí Minh &nbsp;|&nbsp; *Tháng 6/2016 – Tháng 2/2018*
+**Zenga Studio** — Hà Nội &nbsp;|&nbsp; *Tháng 11/2022 – Tháng 8/2024*
 
 - Phát triển 3 game mobile (casual & hyper-casual) từ prototype đến khi phát hành trên App Store và Google Play.
 - Tích hợp hệ thống lưu game, đa ngôn ngữ, push notification và ad mediation (AdMob, MoPub).
 - Đạt **Top 10 Game Miễn Phí** tại Việt Nam với tựa game Puzzle đầu tay.
 
-**Công nghệ:** Unity 5 / 2017, AdMob, C#
+**Công nghệ:** Unity 2019 / 2022, AdMob, C#
 
 ---
 
@@ -116,9 +116,7 @@ Phát triển độc lập tựa game hyper-casual từ ý tưởng đến khi l
 ## 🎓 Học Vấn
 
 **Cử nhân Khoa học Máy tính**
-Trường Đại học Bách Khoa TP. HCM (HCMUT) — *2012 – 2016*
-GPA: 3.6 / 4.0 &nbsp;|&nbsp; Chuyên ngành: Kỹ thuật Phần mềm
-
+Trường Đại học Bách Khoa Hà Nội — *2019 – 2024*
 ---
 
 ## 📜 Chứng Chỉ
@@ -146,16 +144,11 @@ GPA: 3.6 / 4.0 &nbsp;|&nbsp; Chuyên ngành: Kỹ thuật Phần mềm
 | Ngôn ngữ | Trình độ |
 |---|---|
 | Tiếng Việt | Bản ngữ |
-| Tiếng Anh | Giao tiếp chuyên nghiệp (IELTS 7.0) |
+| Tiếng Anh | Đọc hiểu |
 
 ---
 
 ## 📌 Thông Tin Thêm
-
-- **Hình thức làm việc:** Toàn thời gian / Hợp đồng / Remote
-- **Thời gian thông báo:** 1 tháng
-- **Mức lương kỳ vọng:** Thỏa thuận (cạnh tranh theo thị trường)
-- **Sẵn sàng di chuyển:** Có (Singapore, khu vực Đông Nam Á)
 
 ---
 
