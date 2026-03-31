@@ -48,7 +48,7 @@ Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile (iOS &
 ## 💼 Kinh Nghiệm Làm Việc
 
 ### Lead Unity Develop
-**Percas Studio** - Hà Nội &nbsp;|&nbsp; *Tháng 10/2025 – Hiện tại*
+**Percas Studio** - Hà Nội &nbsp;|&nbsp; *Tháng 4/2025 – Hiện tại*
 
 > Nhà phát hành game mobile hàng đầu Việt Nam (1 tỷ+ lượt tải toàn cầu)
 
@@ -91,7 +91,7 @@ Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile (iOS &
 
 ## 🎮 Dự Án Tiêu Biểu
 
-### 🎵 **Sand Loop - Percas Studio**
+### 🎵 ** - Percas Studio**
 
 Thiết kế pipeline nội dung hoàn toàn dựa trên dữ liệu (ScriptableObject + Addressables), cho phép đội ngũ không-lập-trình có thể xuất bản bài hát mới hàng ngày mà không cần build lại ứng dụng. Chu kỳ QA rút ngắn từ 3 ngày xuống 4 giờ. Hỗ trợ phát hành đồng loạt trên iOS & Android.
 
@@ -104,7 +104,7 @@ Thiết kế pipeline nội dung hoàn toàn dựa trên dữ liệu (Scriptable
 
 
 ### 🎯 Hyper-Casual Launcher Game
-*KMS Technology · 2017*
+*Technology · 2025*
 
 Phát triển độc lập tựa game hyper-casual từ ý tưởng đến khi lên kệ trong **6 tuần**. Đạt 500K lượt tải trong tháng đầu tiên, lọt Top 10 Game Miễn Phí tại thị trường Việt Nam. Tích hợp đầy đủ AdMob, in-app purchase, hệ thống daily reward và push notification.
 
@@ -120,10 +120,10 @@ Trường Đại học Bách Khoa Hà Nội — *2019 – 2024*
 
 | Năm | Chứng chỉ |
 |---|---|
-| 2023 | Unity Certified Expert — Gameplay Programmer |
-| 2022 | Google Play Academy — Store Listing Certificate |
-| 2021 | AWS Cloud Practitioner |
-| 2020 | Firebase in a Weekend (Google Developers) |
+| 2026 | Unity Certified Expert — Gameplay Programmer |
+| 2025 | Google Play Academy — Store Listing Certificate |
+| 2024 | AWS Cloud Practitioner |
+| 2023 | Firebase in a Weekend (Google Developers) |
 
 ---
 
