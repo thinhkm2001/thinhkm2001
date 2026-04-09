@@ -1,5 +1,5 @@
 # Nguyễn Văn Thịnh
-**Unity Developer — Mobile Game (iOS/Android)**
+**Unity Developer — Puzzle | Hyper-casual | Mobile Games (iOS/Android)**
 
 📍 Hà Nội, Việt Nam &nbsp;|&nbsp; 📧 thinhkm2001@gmail.com &nbsp;|&nbsp; 📱 0398801*** &nbsp;|&nbsp; 🐙 [github.com/thinhkm2001](https://github.com)
 
@@ -66,7 +66,7 @@ Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile (iOS &
 ---
 
 ### Unity Developer (Junior → Mid)
-**Percas Studio** — Hà Nội &nbsp;|&nbsp; *Tháng 11/2024 – Hiện tại*
+**Percas Studio** - Hà Nội &nbsp;|&nbsp; *Tháng 11/2024 – Hiện tại*
 
 - Phát triển hệ thống gameplay và nội dung theo mùa cho **Asphalt 9: Legends** bản mobile.
 - Xây dựng **Editor toolset tùy chỉnh** cho Level Designer, giảm thời gian sản xuất level **40%**.
@@ -79,7 +79,7 @@ Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile (iOS &
 ---
 
 ### Junior Unity Developer
-**Zenga Studio** — Hà Nội &nbsp;|&nbsp; *Tháng 11/2022 – Tháng 8/2024*
+**Zenga Studio** - Hà Nội &nbsp;|&nbsp; *Tháng 11/2022 – Tháng 8/2024*
 
 - Phát triển 3 game mobile (casual & hyper-casual) từ prototype đến khi phát hành trên App Store và Google Play.
 - Tích hợp hệ thống lưu game, đa ngôn ngữ, push notification và ad mediation (AdMob, MoPub).
@@ -91,15 +91,15 @@ Unity Developer với **3+ năm kinh nghiệm** phát triển game mobile (iOS &
 
 ## 🎮 Dự Án Tiêu Biểu
 
-### 🎵 ** - Percas Studio**
+### 🪣 **Sand .** - **Percas Studio**
 
 Thiết kế pipeline nội dung hoàn toàn dựa trên dữ liệu (ScriptableObject + Addressables), cho phép đội ngũ không-lập-trình có thể xuất bản bài hát mới hàng ngày mà không cần build lại ứng dụng. Chu kỳ QA rút ngắn từ 3 ngày xuống 4 giờ. Hỗ trợ phát hành đồng loạt trên iOS & Android.
 
-### **Block Color: Jam Mania**
+### 🧊 **Block Color: Jam Mania** - **Percas Studio**
 
-### **Tangle Frenzy**
+### 🧶 **Tangle Frenzy** - **Percas Studio**
 
-### **Paint By Words**
+### 🔠 **Paint By Words** - **Zenga Studio**
 ---
 
 
@@ -113,7 +113,7 @@ Phát triển độc lập tựa game hyper-casual từ ý tưởng đến khi l
 ## 🎓 Học Vấn
 
 **Cử nhân Khoa học Máy tính**
-Trường Đại học Bách Khoa Hà Nội — *2019 – 2024*
+Trường Đại học Bách Khoa Hà Nội - *(2019 – 2024)*
 ---
 
 ## 📜 Chứng Chỉ
